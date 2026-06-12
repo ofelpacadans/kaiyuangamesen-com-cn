@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ofelpacadans.github.io/kaiyuangamesen-com-cn/sitemap.xml
